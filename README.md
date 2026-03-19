@@ -12,7 +12,7 @@ Arquivo CSV com a lista de **Regiões de Saúde do Brasil** por município, base
 | `NOME DO MUNICIPIO` | Nome do município |
 | `COD. IBGE DO MUNICIPIO` | Código IBGE de 6 dígitos do município |
 
-**5.553 registros** — todos os municípios brasileiros dos 26 estados + DF.
+**5.554 registros** — todos os municípios brasileiros dos 26 estados + DF.
 
 
 ## Fonte
