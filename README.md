@@ -1,4 +1,4 @@
-# regiao-saude
+# Base de dados Regiões de Saúde ANS
 
 Arquivo CSV com a lista de **Regiões de Saúde do Brasil** por município, baseado nos dados do anexo da Resolução Normativa ANS Nº 665, de 26 de fevereiro de 2026.
 
